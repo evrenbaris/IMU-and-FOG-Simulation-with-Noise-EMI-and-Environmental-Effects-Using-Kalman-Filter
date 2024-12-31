@@ -15,7 +15,7 @@ This project simulates an Inertial Measurement Unit (IMU) and Fiber Optic Gyrosc
 ## Future Enhancements
 - Add magnetometer simulation for complete IMU functionality.
 - Implement dynamic military-standard test scenarios.
-- Extend the system to real-time hardware testing.
+- Extend the system to real-time hardware testing..
 
 ## Technologies Used
 - Python (NumPy, Matplotlib)
